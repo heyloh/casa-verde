@@ -1,8 +1,15 @@
 import type { NextPage } from 'next'
+import { Menu } from '../components/Menu'
+import { Newsletter } from '../components/Newsletter'
+import { Head } from '../infra/components/Head'
 
 const Home: NextPage = () => {
   return (
-    <h1>Home</h1>
+    <>
+      <Head />
+      <Menu />
+      <Newsletter />
+    </>
   )
 }
 
