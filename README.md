@@ -10,7 +10,7 @@
 
 ![Image de uma caixa de e-mail com botão para assinar Newsletter](./.github/assets/newsletter.png)
 
-# DAY 2
+## DAY 2
 
 ...
 
