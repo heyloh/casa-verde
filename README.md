@@ -12,7 +12,7 @@
 
 ## DAY 2
 
-...
+- [x] Estilizar componentes com Styled Components
 
 ---
 
